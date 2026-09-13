@@ -8,3 +8,6 @@ Thumbs.db
 *.log
 .vite/
 .cache/
+
+.vercel
+.env*
